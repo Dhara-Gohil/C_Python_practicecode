@@ -2,9 +2,6 @@
 
 Welcome to my repository for practicing **C** and **Python** programming! This repository contains various code snippets, practice exercises, and small projects that I've worked on to improve my skills in both languages.
 
-## 📝 **Repository Structure**
-
----
 
 ## 💻 **Languages Used**
 
